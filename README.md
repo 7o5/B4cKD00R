@@ -19,3 +19,5 @@ These python scripts work with only python3.
     download [file_name] --- You can download any files from your target machine to your machine.
 
     exit --- You can exit out of the shell.
+
+This project is based on https://www.udemy.com/share/101WfECEQZeFtaRHo=/
