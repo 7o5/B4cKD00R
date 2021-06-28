@@ -14,8 +14,8 @@ These python scripts work with only python3.
 
 ### Commands that I added to this project
 
-upload [file_name] --- You can upload any files from your machine to your target machine.
+    upload [file_name] --- You can upload any files from your machine to your target machine.
 
-download [file_name] --- You can download any files from your target machine to your machine.
+    download [file_name] --- You can download any files from your target machine to your machine.
 
-exit --- You can exit out of the shell.
+    exit --- You can exit out of the shell.
