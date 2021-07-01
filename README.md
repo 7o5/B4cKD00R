@@ -1,8 +1,8 @@
 # B4cKD00R
 
-## [+] This is for educational purposes only. Do not use these python scripts for illegal stuff.[+]
+## [+] This is for educational purposes only. Do not use these python scripts for illegal stuff. [+]
 
-[-] I named this project "A backdoor python project" but you need more steps to use it as a backdoor.(I won't show the way here.)[-]
+[-] I named this project "A backdoor python project" but you need more steps to use it as a backdoor.(I won't show you the way here.) [-]
 
 This is a backdoor python project.
 
